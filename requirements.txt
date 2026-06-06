@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+sounddevice
+numpy
+torch
+torchaudio
+transformers
